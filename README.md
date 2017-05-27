@@ -1,2 +1,1 @@
-# MIftah_Research
-Initial shoot to GitHub 
+Hi folks , My Name is MIftah. I am here to try out Github ! I am researching on Deepl Learning for big data analtics ! I hope to share and collaborate here in days to come!  I feel so excited to find such platform where I can share thoughts and maintain and share my work ! 
